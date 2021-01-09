@@ -1,5 +1,9 @@
 // const name = 'Владилен'
 // const age = 26
+// const output = 'my name is ' + name + ' me is ' + age
+// console.log(output)
+
+
 //
 // function getAge() {
 //   return age
